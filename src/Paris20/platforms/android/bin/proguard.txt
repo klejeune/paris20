@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class fr.partipirate.paris20.Paris20 { <init>(...); }
+

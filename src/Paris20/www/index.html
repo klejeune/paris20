@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="css/index.css" rel="stylesheet" type="text/css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="app" ng-app>
+			<nav class="navbar navbar-default" role="navigation">
+			  <!-- Brand and toggle get grouped for better mobile display -->
+			  <div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+				  <span class="sr-only">Toggle navigation</span>
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Paris XX</a>
+			  </div>
+
+			  <!-- Collect the nav links, forms, and other content for toggling -->
+			  <div class="collapse navbar-collapse navbar-ex1-collapse">
+				<ul class="nav navbar-nav">
+				  <li class="active"><a href="#accueil">Accueil</a></li>
+				  <li><a href="#problemes">Probl&egrave;mes</a></li>
+				  <li><a href="#apropos">&Agrave; propos</a></li>
+				</ul>
+			  </div><!-- /.navbar-collapse -->
+			</nav>
+		
+            <h1>Le XX<sup>&egrave;me</sup>, c'est :</h1>
+			<ul>
+				<li>196 880 habitants</li>
+				<li>5,98 km<sup>2</sup></li>
+				<li>32 923 habitants/km<sup>2</sup></li>
+			</ul>
+            <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p>
+            </div>			
+        </div>
+		<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>
