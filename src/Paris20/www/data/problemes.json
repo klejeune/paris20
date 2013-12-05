@@ -1,0 +1,32 @@
+﻿[
+	{
+		"id": "logement",
+		"name": "Logement",
+		"color": "#1F77B4"
+	},	
+	{
+		"id": "proprete",
+		"name": "Propreté",
+		"color": "#AEC7E8"
+	},	
+	{
+		"id": "cadredevie",
+		"name": "Cadre de vie",
+		"color": "#FF7F0E"
+	},	
+	{
+		"id": "securite",
+		"name": "Sécurité",
+		"color": "#FFBB78"
+	},
+	{
+		"id": "administration",
+		"name": "Administration",
+		"color": "#26BA00"
+	},
+	{
+		"id": "petiteenfance",
+		"name": "Petite enfance",
+		"color": "#93DB7F"
+	}
+]

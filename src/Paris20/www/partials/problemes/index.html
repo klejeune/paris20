@@ -1,0 +1,38 @@
+<h2>D&eacute;clarer un probl&egrave;me</h2>
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div>
+			<p>Quelque chose ne va pas dans votre arrondissement ? Signalez-le ici !</p>
+			<p>Ce service a pour but de lister les probl&egrave;mes afin de les am&eacute;liorer. Aucun signalement ne peut comporter des 
+			donn&eacute;es ou des informations nominatives. Aucun signalement ne peut mettre en cause un tiers. Tout message &agrave; caract&egrave;re diffamatoire, 
+			discriminatoire, incitant &agrave; la haine ou contrevenant aux lois de la R&eacute;publique sera supprim&eacute;. Ne citez aucun nom, ne mettez en cause personne.</p>
+		</div>
+		<hr/>
+		<div class="span2">
+			<p>S&eacute;lectionnez la cat&eacute;gorie du probl&egrave;me :</p>
+		</div>
+		<div class="span10">
+			<!--Body content-->
+			<div class='probleme-champ'>
+				<select class='type-dropdown'>
+					<option ng-repeat="probleme in problemes | orderBy:orderProp" value='{{probleme.id}}'>{{probleme.name}}</option>
+				</select>
+			</div>
+			<div class='probleme-champ'>
+				<textarea class='probleme-description form-control' placeholder="Entrez une description..."></textarea>
+			</div>
+			<!--<div class='probleme-champ'>
+				Prendre une photo :
+				<button class='btn btn-lg'>
+					<span class='glyphicon glyphicon-camera'></span>
+				</button>
+			</div>-->
+			<div class='probleme-champ'>
+				<button class='send-probleme-button btn btn-primary btn-lg btn-block' onclick='sendProbleme()'>
+					<span class='glyphicon glyphicon-chevron-right'></span>
+					Envoyer !
+				</button>
+			</div>
+		</div>
+	</div>
+</div>

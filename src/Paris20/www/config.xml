@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="fr.partipirate.paris20" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Paris20</name>
+    <name>Paris 20</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Une application mobile dédiée au XXème arrondissement de Paris. Créée par le Parti Pirate dans une démarche citoyenne.
     </description>
-    <author email="dev@callback.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="kevin@le-jeune.fr" href="http://kevin.le-jeune.fr">
+        Kevin Le Jeune
     </author>
     <content src="index.html" />
+    <access origin="http://ajax.googleapis.com" />
+    <access origin="http://appli.pirates20.fr:8888" />
     <access origin="*" />
-    <preference name="fullscreen" value="true" />
+    <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
+	<gap:plugin name="org.apache.cordova.inappbrowser" />
 </widget>
