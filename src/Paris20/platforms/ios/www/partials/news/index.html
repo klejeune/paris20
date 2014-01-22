@@ -1,0 +1,12 @@
+<h2>Actualit&eacute; du XX<sup>&egrave;me</sup></h2>
+		<div class='loadingBlock alert alert-info' ng-show="isViewLoading">Chargement...</div>
+        <div class="row-fluid">
+            <ul class="list-unstyled">
+                <li ng-repeat="feed in feeds | filter:filterText">                    
+                    <h5><a href="{{feed.link}}" target='_blank'>{{feed.title}}</a></h5>                                        
+                    <p class="text-left">{{feed.contentSnippet}}</p>                    
+                    <span class="small">{{toFrench(feed.publishedDate)}}</span>
+                </li>                
+            </ul>            
+        </div>
+		<a href="#" class='btn btn-primary btn-lg btn-block' onclick="window.open('http://mairie20.paris.fr/', '_system');">En lire plus...</a>
