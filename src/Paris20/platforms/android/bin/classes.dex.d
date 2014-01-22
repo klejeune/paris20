@@ -1,0 +1,23 @@
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes.dex : \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\BuildConfig.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\Paris20.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\R$attr.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\R$drawable.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\R$string.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\R$xml.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\fr\partipirate\paris20\R.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$5.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\dexedLibs\annotations-78e24afa1f0e69b87227ecf6339d8238.jar \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\bin\dexedLibs\cordova-3.1.0-b35acf6a2a74ffb583e78f188e622d55.jar \

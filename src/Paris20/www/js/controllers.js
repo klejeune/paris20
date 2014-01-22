@@ -11,7 +11,7 @@ paris20Controllers.controller('NewsController', ['$scope', '$http', 'FeedService
 
 		$scope.toFrench = function(myDate) {
 			var date = new Date(myDate);
-			var day = date.getDate() + "/" + date.getMonth() + "/" + date.getFullYear();
+			var day = date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear();
 			var hour = date.getHours() + ":" + date.getMinutes();
 			
 			return day + " " + hour;
