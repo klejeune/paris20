@@ -32,10 +32,14 @@ C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\ww
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\fonts\glyphicons-halflings-regular.svg \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\fonts\glyphicons-halflings-regular.ttf \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\fonts\glyphicons-halflings-regular.woff \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\img\lafabrique.png \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\img\logo.png \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\img\partipirate.png \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\img\sponsors.png \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\angular-route.min.js \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\angular.min.js \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\app.js \
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\bootstrap.js \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\bootstrap.min.js \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\collapse.js \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\js\controllers.js \
@@ -48,8 +52,6 @@ C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\ww
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\conditions.html \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\news \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\participez.html \
-C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\phone-detail.html \
-C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\phone-list.html \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\problemes \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\stats.html \
 C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\android\assets\www\partials\accueil\index.html \

@@ -51,7 +51,7 @@ function sendProbleme() {
 	var typeProbleme = $('.type-dropdown option:selected').val();
 	var description =  $('.probleme-description').val();
 	
-	var url = "http://appli.pirates20.fr:8888/insert?name=" + "Probleme" + "&type=" + typeProbleme + "&description=" + description;
+	var url = "http://appli.pirates20.fr/api/problemes/insert?name=" + "Probleme" + "&type=" + typeProbleme + "&description=" + description;
 	
 	var success = false;
 	var button = $('.send-probleme-button');
@@ -84,10 +84,10 @@ phonecatApp.factory('FeedService', ['$http', function ($http) {
 phonecatApp.factory('ProblemesService', ['$http', function ($http) {
     return {
 		baseUrl: function() {
-			return "http://appli.pirates20.fr:8888";
+			return "http://appli.pirates20.fr";
 		},
         list: function (callback) {
-			$http.get(this.baseUrl() + '/stats').success(function(data) {
+			$http.get(this.baseUrl() + '/api/problemes/stats').success(function(data) {
 				callback(null, data);
 			});
         },
@@ -95,7 +95,7 @@ phonecatApp.factory('ProblemesService', ['$http', function ($http) {
 			$http.get('data/problemes.json').success(callback);
 		},
 		getLast: function(callback) {
-			var url = this.baseUrl() + '/last';
+			var url = this.baseUrl() + '/api/problemes/last';
 			$http.get('data/problemes.json').success(function(err, res) {
 				$http.get(url).success(function(data) {
 					callback(null, data);

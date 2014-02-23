@@ -16,6 +16,7 @@
     </feature>
     <access origin="http://ajax.googleapis.com" />
     <access origin="http://appli.pirates20.fr:8888" />
+    <access origin="http://appli.pirates20.fr" />
     <access origin="*" />
     <preference name="useBrowserHistory" value="true" />
     <preference name="exit-on-suspend" value="false" />
