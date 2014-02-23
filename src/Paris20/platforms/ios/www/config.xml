@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="fr.partipirate.paris20" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="fr.partipirate.paris20" version="0.0.4" versionCode="4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Paris 20</name>
     <description>
-        Une application mobile dédiée au XXme arrondissement de Paris. Cre par le Parti Pirate dans une dmarche citoyenne.
+        Une application mobile citoyenne dédiée au XXème arrondissement de Paris. Créée par Kevin Le Jeune, avec le soutien de La Fabrique du 20ème et du Parti Pirate.
     </description>
     <author email="kevin@le-jeune.fr" href="http://kevin.le-jeune.fr">
         Kevin Le Jeune
@@ -10,6 +10,7 @@
     <content src="index.html" />
     <access origin="http://ajax.googleapis.com" />
     <access origin="http://appli.pirates20.fr:8888" />
+    <access origin="http://appli.pirates20.fr" />
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
