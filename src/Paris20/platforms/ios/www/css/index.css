@@ -46,18 +46,44 @@
   height: 225px;
 }
 
-.logo {
+.logo, .logo-sponsors {
 	text-align: center;
-	margin-bottom: 40px;
 	width: 100%;
 }
 
 .logo img {
 	width: 100%;
-	max-width: 375px;
+	max-width: 200px;
+}
+
+.logo-sponsors img {
+	width: 100%;
+	max-width: 400px;
+}
+
+.contact-div {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
 }
 
 .footer {
 	margin-top: 20px;
 	text-align: center;
+}
+
+
+input[type="text"], textarea, select {
+    border: 1px solid #dadada;
+}
+
+select {
+ /* height: 40px !important;
+  padding: 10px 10px 10px 10px;*/
+}
+
+input[type="text"]:focus, textarea:focus, select:focus { 
+    outline: none;
+    border-color: #E50039;
+    box-shadow: 0 0 4px #E50039;
 }

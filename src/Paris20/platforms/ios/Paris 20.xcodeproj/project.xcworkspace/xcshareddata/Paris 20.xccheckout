@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9D815DAB-0E23-4F08-AD09-4BAE9D154F28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Paris 20</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7C1A09E-90C1-464C-94B2-358E20B2BCDD</key>
+		<string>https://github.com/klejeune/paris20.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/Paris20/platforms/ios/Paris 20.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7C1A09E-90C1-464C-94B2-358E20B2BCDD</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/klejeune/paris20.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7C1A09E-90C1-464C-94B2-358E20B2BCDD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7C1A09E-90C1-464C-94B2-358E20B2BCDD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>paris20</string>
+		</dict>
+	</array>
+</dict>
+</plist>
