@@ -1,0 +1,89 @@
+/* Accueil */
+.accueil-menu ul
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+    .accueil-menu ul li
+	{
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+
+	.type-dropdown {
+		/*height: 5.4em;*/
+		width: 100%;
+	}
+	
+	.probleme-description {
+		width: 100%;
+		height: 7em;
+	}
+	
+	.probleme-champ {
+		margin-top: 4px;
+		margin-bottom: 4px;
+	}
+	
+.loadingBlock {
+	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+}
+
+.view {
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.chart {
+  width: 430px;
+  height: 225px;
+}
+
+.logo, .logo-sponsors {
+	text-align: center;
+	width: 100%;
+}
+
+.logo img {
+	width: 100%;
+	max-width: 200px;
+}
+
+.logo-sponsors img {
+	width: 100%;
+	max-width: 400px;
+}
+
+.contact-div {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.footer {
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+input[type="text"], textarea, select {
+    border: 1px solid #dadada;
+}
+
+select {
+ /* height: 40px !important;
+  padding: 10px 10px 10px 10px;*/
+}
+
+input[type="text"]:focus, textarea:focus, select:focus { 
+    outline: none;
+    border-color: #E50039;
+    box-shadow: 0 0 4px #E50039;
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget>
+    <access origin="*" />
+    <feature name="InAppBrowser">
+        <param name="wp-package" value="InAppBrowser" />
+    </feature>
+</widget>

@@ -1,0 +1,14 @@
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\fr.partipirate.paris20.dll
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\fr.partipirate.paris20.pdb
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\fr.partipirate.paris20.g.resources
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\fr.partipirate.paris20.dll
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\fr.partipirate.paris20.pdb
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Debug\XapCacheFile.xml

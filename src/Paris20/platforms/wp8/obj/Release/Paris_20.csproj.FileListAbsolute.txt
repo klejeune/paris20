@@ -1,0 +1,14 @@
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\ApplicationIcon.png
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\Background.png
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\fr.partipirate.paris20.dll
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\fr.partipirate.paris20.pdb
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\AppManifest.xaml
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\Bin\Release\CordovaAppProj_Release_AnyCPU.xap
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\App.g.cs
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\cordovalib\CordovaView.g.cs
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\MainPage.g.cs
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\fr.partipirate.paris20.g.resources
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\fr.partipirate.paris20.dll
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\fr.partipirate.paris20.pdb
+C:\Users\Alizee\Documents\GitHub\paris20\src\Paris20\platforms\wp8\obj\Release\XapCacheFile.xml
