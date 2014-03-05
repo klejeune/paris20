@@ -3,6 +3,13 @@
   <DefaultLanguage code="en-US" xmlns="" />
   <Languages xmlns="">
     <Language code="en-US" />
+    <Language code="fr" />
+    <Language code="fr-BE" />
+    <Language code="fr-CA" />
+    <Language code="fr-FR" />
+    <Language code="fr-LU" />
+    <Language code="fr-MC" />
+    <Language code="fr-CH" />
   </Languages>
   <App Author="Paris 20 author" BitsPerPixel="32" Description="Apache Cordova for Windows Phone" Genre="apps.normal" ProductID="{0F7E8739-E027-4B36-A8D2-A43D95DAFE85}" Publisher="Paris 20" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="Paris 20" Version="0.0.4" xmlns="">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
